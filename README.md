@@ -864,3 +864,7 @@ mindmap
 ---
 
 *Documento elaborado para el curso 2026/2027, módulo 0487 Entornos de Desarrollo, UT1 — Control de versiones: Git y GitHub.*
+
+ Segundo cambio
+ Este texto se añadió después del primer push.
+ 
